@@ -1,0 +1,9 @@
+{
+  "name": "taurify",
+  "version": "1.0.0",
+  "description": "Get a Tauri app from a URL!",
+  "main": "index.js",
+  "repository": "https://github.com/RealDrPuc/taurify.git",
+  "author": "RealDrPuc <63993644+RealDrPuc@users.noreply.github.com>",
+  "license": "MIT"
+}
