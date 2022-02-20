@@ -1,7 +1,7 @@
 # Taurify
 Get a Tauri app from a URL!
 
-Inspired by [nativefier]()
+Inspired by [nativefier](https://github.com/nativefier/nativefier)
 
 This is a proof of concept for now, the code is 💩 :)
 
